@@ -4,6 +4,7 @@ channels:
 dependencies:
   - numpy
   - psutil
+  - seaborn
   - toolz
   - matplotlib
   - dill
