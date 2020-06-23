@@ -1,9 +1,9 @@
 # Data Interpretation Test
-## Click on the Nerdwallet_Jupyter_notebook_FINAL file to see the final product. 
+## Click on the Car_Insurance_Jupyter_notebook_FINAL.ipynb file to see the final product. 
 Name: <bold> Tyler Milligan </bold> <br>
 Position: Data Writer
 
-Click to run notebook -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/typride/Nerdwallet_Test/master)
+Click to run notebook -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/typride/Data-Writer-Car-Insurance-Analysis/master)
 
 This notebook exemplifies the type of analytics and data manipulation that I can do with any data source with Python and its data science libaries, such as Pandas, Numpy, Matplot, and Seaborn. I have included titles above each section and a description beneath each title to further explain what the section achieves. 
 
