@@ -1,4 +1,4 @@
-# Nerdwallet_Test
+# Data Interpretation Test
 ## Click on the Nerdwallet_Jupyter_notebook_FINAL file to see the final product. 
 Name: <bold> Tyler Milligan </bold> <br>
 Position: Data Writer
